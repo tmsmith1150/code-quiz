@@ -1,0 +1,18 @@
+
+#timer {
+    width: 90px;
+    height: 90px;
+    float: right;
+    color: blue;
+
+}
+
+#main {
+    width: 400px;
+    height: 400px;
+    float: right;
+}
+
+#btn1 {
+    background-color: blue;
+}
