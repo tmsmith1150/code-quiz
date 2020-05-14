@@ -4,15 +4,50 @@
     height: 90px;
     float: right;
     color: blue;
+    margin-top: 10px;
+    margin-right: 200px;
 
 }
 
 #main {
     width: 400px;
     height: 400px;
-    float: right;
+    padding-left: 33%;
+    padding-top: 10%;
+
+    
 }
 
-#btn1 {
-    background-color: blue;
+#start {
+    background-color: red;
+    height: 40px;
+    font-size: 30px;
+    text-align: center;
+    
 }
+.quiz-challenge {
+    color: blue;
+    text-align: center;
+
+}
+
+#quiz {
+    background-color: turquoise;
+    height: 400px;
+    width: 700px;
+    margin-left: 25%;
+    margin-top: 12%;
+ 
+}
+#question {
+    padding-left: 30px;
+    padding-top: 20px;;
+    
+}
+.buttons {
+    width: 600px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+
